@@ -1,0 +1,47 @@
+*{color: white;}
+*{margin: 0px;
+padding: 0px;}
+body{background-color: #1f456e;}
+#navbar{background-color: #0f1111;
+height: 60px;
+border-style:solid;
+border-width: 4px;}
+#ama{color: #FF9900;
+padding-right: 200px;
+padding-left: 5px;
+font-size: 25px;
+text-decoration: none;}
+#acc{padding-right: 200px;
+text-decoration: none;}
+#cart{padding-right: 200px;
+text-decoration: none;}
+#con{padding-right: 200px;
+text-decoration: none;}
+input{padding-left: 3px;
+padding-top: 2px;
+padding-bottom: 2px;}
+button{background-color: #F08804;
+padding: 3px;}
+.try{height: 100px;
+width:100px;
+border-style: solid;
+border-color: black;
+border-width: 5px;}
+#one{background-color:rgba(200, 90, 70, 0.5);
+display:inline-block;
+margin:100px 200px 0px 350px;
+text-align: center;}
+#two{background-color:rgba(50, 90, 70, 0.5);
+    display:inline-block;
+    margin:100px 200px 0px 0px;
+text-align: center;}
+#three{background-color:rgba(101, 90, 170, 0.5);
+    display:inline-block;
+    margin:100px 0px 0px 0px;
+text-align: center;}
+    #harder{height: 500px;}
+footer{height: 300px;
+background-color: rgb(46, 46, 70);}
+#nine{text-align: center;
+padding-top: 10px;}
+#ten{text-align: center;}
